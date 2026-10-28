@@ -1,0 +1,12 @@
+# Local evidence and reports may contain confidential data
+/evidence/
+/report/
+/reports/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.DS_Store

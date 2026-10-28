@@ -1,0 +1,1 @@
+{"claims":[{"id":"C001","text":"The requirements specify SSO integration.","kind":"F","evidence_ids":["E001"]},{"id":"C002","text":"SSO can increase MVP delivery time.","kind":"I","evidence_ids":["E001"],"assumptions":["SSO is not already implemented"]},{"id":"C003","text":"Customer acceptance of simpler login is unknown.","kind":"U","evidence_ids":[]}]}

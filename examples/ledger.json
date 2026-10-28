@@ -1,0 +1,1 @@
+{"scope":{"question":"Example technical decision","systems":["user-provided document"]},"evidence":[{"id":"E001","source_type":"document","title":"Example requirements","file_path":"docs/requirements.md","locator":"section 2","excerpt":"The system must have a single sign-on integration."}]}
